@@ -1,0 +1,10 @@
+# executables
+*.out
+*.exe
+
+# object files
+*.o
+
+# compiled libs
+*.a
+*.so
